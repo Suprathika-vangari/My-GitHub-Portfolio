@@ -33,7 +33,7 @@
 
 I'm constantly learning about emerging tech in data and AI, and while their convergence is exciting, I'll admit it's also a bit intimidating. 
 - 👷🏻‍♀️ Building **end-to-end data pipelines**, **lakehouse architectures**, and **AI-powered solutions**
-- 🌱 Currently learning - **Airflow**, **dbt**, **Spark**, and **cloud data platforms**
+- 🌱 Currently learning - **Airflow**, **dbt**, and **AI**
 - 📚 Medium and Substack enthusiast for data engineering & tech wisdom
 - 🎯 Making data work smarter, not harder!
 - 📦 Organized person who believes in structure and clarity
